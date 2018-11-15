@@ -1,0 +1,1 @@
+negociacao = new Negociacao(new Date(),100,2);ß
